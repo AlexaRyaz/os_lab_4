@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -fPIC -shared -Wl,-soname,lib2.so -o lib2.so CMakeFiles/lib2_dynamic.dir/lib2.c.o 

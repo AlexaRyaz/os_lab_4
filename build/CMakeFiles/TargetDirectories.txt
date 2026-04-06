@@ -1,0 +1,6 @@
+/mnt/c/StudyProjects/OSlabs/os_lab_4/build/CMakeFiles/lib1_dynamic.dir
+/mnt/c/StudyProjects/OSlabs/os_lab_4/build/CMakeFiles/lib2_dynamic.dir
+/mnt/c/StudyProjects/OSlabs/os_lab_4/build/CMakeFiles/program1.dir
+/mnt/c/StudyProjects/OSlabs/os_lab_4/build/CMakeFiles/program2.dir
+/mnt/c/StudyProjects/OSlabs/os_lab_4/build/CMakeFiles/edit_cache.dir
+/mnt/c/StudyProjects/OSlabs/os_lab_4/build/CMakeFiles/rebuild_cache.dir
