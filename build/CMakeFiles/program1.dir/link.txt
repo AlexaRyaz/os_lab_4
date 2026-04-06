@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -fPIC CMakeFiles/program1.dir/program1.c.o -o program1  -Wl,-rpath,"\$ORIGIN" lib1.so -lm 
